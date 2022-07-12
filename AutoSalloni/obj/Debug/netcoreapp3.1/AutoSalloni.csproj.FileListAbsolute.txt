@@ -1,0 +1,16 @@
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\bin\Debug\netcoreapp3.1\AutoSalloni.exe
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\bin\Debug\netcoreapp3.1\AutoSalloni.deps.json
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\bin\Debug\netcoreapp3.1\AutoSalloni.runtimeconfig.json
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\bin\Debug\netcoreapp3.1\AutoSalloni.runtimeconfig.dev.json
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\bin\Debug\netcoreapp3.1\AutoSalloni.dll
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\bin\Debug\netcoreapp3.1\AutoSalloni.pdb
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\obj\Debug\netcoreapp3.1\AutoSalloni.csproj.AssemblyReference.cache
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\obj\Debug\netcoreapp3.1\AutoSalloni.Form1.resources
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\obj\Debug\netcoreapp3.1\AutoSalloni.csproj.GenerateResource.cache
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\obj\Debug\netcoreapp3.1\AutoSalloni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\obj\Debug\netcoreapp3.1\AutoSalloni.AssemblyInfoInputs.cache
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\obj\Debug\netcoreapp3.1\AutoSalloni.AssemblyInfo.cs
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\obj\Debug\netcoreapp3.1\AutoSalloni.csproj.CoreCompileInputs.cache
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\obj\Debug\netcoreapp3.1\AutoSalloni.dll
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\obj\Debug\netcoreapp3.1\AutoSalloni.pdb
+C:\Users\Elber Hoda\Documents\Projektet\AutoSalloni\AutoSalloni\obj\Debug\netcoreapp3.1\AutoSalloni.genruntimeconfig.cache
