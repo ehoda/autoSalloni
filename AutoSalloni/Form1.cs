@@ -89,16 +89,7 @@ namespace AutoSalloni
             car.Colour = cbColour.SelectedItem.ToString();
 
             int carIndex = Cars.FindIndex(c => c.Firma == car.Firma && c.Model == car.Model && c.Year == car.Year && c.Km == car.Km);
-
-            if(carIndex == -1)
-            {
-                Cars.Add(car);
-                lbCarDetails.Items.Add(car.convertObjectToString());
-            }
-            else
-            {
-                Cars[carIndex] = car;
-            }
+            
 
         }
 
