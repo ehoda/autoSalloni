@@ -63,6 +63,8 @@ namespace AutoSalloni
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+            if (lbCarDetails.SelectedIndex == -1)
+                return;
             CarDetails car = Cars[lbCarDetails.SelectedIndex];
             cbFirma.SelectedItem = car.Firma;
             cbYear.SelectedItem = car.Year.ToString();
